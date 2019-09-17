@@ -13,11 +13,14 @@ https://library.seg.org/doi/10.1190/segam2019-3216760.1
 Current supported Julia version: 1.2
 
 Package dependencies (type in Julia REPL):
+
+'''
 ] add Optim
 ] add LineSearches
 ] add PyPlot
 ] add JLD2
 ] add ImageFiltering
+'''
 
 ## Instructions
 
