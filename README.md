@@ -7,10 +7,11 @@ https://slim.gatech.edu/content/dual-formulation-time-domain-wavefield-reconstru
 
 This software release complements the SEG San Antonio 2019 technical abstract:
 https://library.seg.org/doi/10.1190/segam2019-3216760.1
+Please, refer to this publication if you use this software
 
 ## Requirements
 
-Current supported Julia version: 1.2
+Current supported Julia version: 1.3.1
 
 ### Package Dependencies: ###
 
